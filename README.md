@@ -1,8 +1,8 @@
-[![MasterHead]( https://miro.medium.com/v2/resize:fit:1358/0*yBvA5CnEX3Sd4aod.gif)](https://sonalichaudhri.io)
+[![MasterHead]( https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)](https://sonalichaudhri.io)
 
 <h1 align="center">Hi 👋, I'm Sonali Chaudhri</h1>
 <h3 align="center">A passionate fullstack Devloper</h3>
-<img align="right" alt= "coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
+<img align="right" alt= "coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*yBvA5CnEX3Sd4aod.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali-chaudhri&label=Profile%20views&color=0e75b6&style=flat" alt="sonali-chaudhri" /> </p>
