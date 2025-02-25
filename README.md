@@ -14,8 +14,8 @@
 ---
 
 ### 👩‍💻 About Me:
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, React.js, Node.js, MongoDB**
-- 💬 Ask me about **AWS, Full-Stack Development**
+- 🌱 I’m currently learning ** NextJs,Typescript,React,Postgres,Tailwind CSS,JavaScript, React.js,**
+- 💬 Ask me about **AWS,Devops,Full-Stack Development**
 - 📫 Reach me at **csonali415@gmail.com**
 
 ---
@@ -24,9 +24,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/sonalichaudhari" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://fb.com/sonali-chaudhri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
 </p>
 
@@ -60,6 +57,24 @@
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50" height="50"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
   </a>
 </p>
 
