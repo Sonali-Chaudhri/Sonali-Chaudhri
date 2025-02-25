@@ -1,4 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)](https://sonalichaudhri.io)
+[![MasterHead](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?t=st=1740464523~exp=1740468123~hmac=b33a32f8187070e8cc25c939e0fa63199db6ce04f9f28b32c19efe979f682777&w=1380)](https://sonalichaudhri.io)
+
 
 <h1 align="center">Hi 👋, I'm Sonali Chaudhri</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
