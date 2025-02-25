@@ -89,6 +89,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonali-chaudhri&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonali-chaudhri" alt="GitHub Streak" />
-</p>
